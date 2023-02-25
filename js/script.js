@@ -3,6 +3,6 @@ const b = Number(prompt("Digite o aumento"))
 
 
 let resultado = a+(a*b/100)
-console.log(resultado)
+//console.log(resultado)
 
 document.write(resultado)
