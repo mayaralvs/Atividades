@@ -5,4 +5,4 @@ const b = Number(prompt("Digite o aumento"))
 let resultado = a+(a*b/100)
 //console.log(resultado)
 
-document.write(resultado)
+document.write("O novo salário é: " + resultado)
